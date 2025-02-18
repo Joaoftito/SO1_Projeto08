@@ -22,7 +22,7 @@ lista, a linha inteira, apenas de jogadores jovens. O método deve retornar essa
 para o primeiro, imprimir (somente nome, idade e Overall) apenas de jogadores com Overall acima de 80 e 20
 anos ou menos.
 - Considere que, para separar cada elemento de cada linha, deve se usar o método split;
-- Considere que a primeira linha do arquivo deve ser ignorada
+- Considere que a primeira linha do arquivo deve ser ignorada.
 
 ## Projeto 2
 - Fazer uma aplicação em Java que tenha uma classe de controle que contenha um método que receba um
